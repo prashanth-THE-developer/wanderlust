@@ -20,6 +20,14 @@ const coordinates = {
 };
 
 async function seed() {
+  // This script DELETES every listing in the database named in ATLASDB_URL.
+  // It only runs when you add --yes, so it can never wipe real data by accident.
+  if (!process.argv.includes("--yes")) {
+    console.log("Refusing to run: this deletes ALL listings in the database from your .env.");
+    console.log("If you are sure, run:  node init/index.js --yes");
+    return;
+  }
+
   if (!process.env.ATLASDB_URL) {
     throw new Error("ATLASDB_URL is missing in .env");
   }
