@@ -12,19 +12,19 @@ An Airbnb-style travel listings platform. Visitors can browse stays on an intera
 ## Screenshots
 
 ### Home page
-![Home page](docs/screenshots/home.jpg)
+![Home page](docs/screenshots/homepage.jpg)
 
 ### Login
-![Login page](docs/screenshots/login.jpg)
+![Login page](docs/screenshots/loginpage.jpg)
 
 ### Listing page 
-![Listing page](docs/screenshots/listing.jpg)
+![Listing page](docs/screenshots/listingpage.jpg)
 
 ### Listing page with map
 ![Listing page with map ](docs/screenshots/map.jpg)
 
 ### Star ratings and reviews
-![Reviews](docs/screenshots/reviews.jpg)
+![Reviews](docs/screenshots/review.jpg)
 
 
 ---
