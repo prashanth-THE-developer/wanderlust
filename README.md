@@ -7,12 +7,25 @@ An Airbnb-style travel listings platform. Visitors can browse stays on an intera
 
 > **Note:** the demo runs on a free hosting plan. If nobody has opened it for a while it goes to sleep, so the first page load can take around a minute. After that it is fast.
 
-<!--
-Add screenshots here after you take them, for example:
-![Home page](docs/screenshots/home.png)
-![Listing page with map](docs/screenshots/show.png)
-Put the image files in a docs/screenshots folder and commit them.
--->
+## Screenshots
+
+## Screenshots
+
+### Home page
+![Home page](docs/screenshots/home.jpg)
+
+### Login
+![Login page](docs/screenshots/login.jpg)
+
+### Listing page 
+![Listing page](docs/screenshots/listing.jpg)
+
+### Listing page with map
+![Listing page with map ](docs/screenshots/map.jpg)
+
+### Star ratings and reviews
+![Reviews](docs/screenshots/reviews.jpg)
+
 
 ---
 
